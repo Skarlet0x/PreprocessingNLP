@@ -9,7 +9,11 @@ xx
 ```
 ## DEPENDENCIES
 ```
-xx
+pip install nltk
+python -m nltk download stopwords, wordnet, punkt, averaged_perceptron_tagger
+pip install beautifulsoup
+pip install textblob
+
 ```
 ## DATA CLEANUP
 Available functions: 
