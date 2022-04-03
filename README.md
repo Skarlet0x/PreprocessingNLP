@@ -1,5 +1,5 @@
 # PreprocessingNLP
-A comprehensive library for text preprocessing, exploratory text data analysis and information extraction. 
+A comprehensive library for text preprocessing, exploratory text data analysis and information extraction based on NLTK, TextBlob and Regular Expressions. 
 
 All functions take in strings as inputs.
 
